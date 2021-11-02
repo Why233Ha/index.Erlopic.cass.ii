@@ -1,0 +1,11 @@
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\bin\Debug\Erlopic Welear Sponlem.exe.config
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\bin\Debug\Erlopic Welear Sponlem.exe
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\bin\Debug\Erlopic Welear Sponlem.pdb
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.csproj.AssemblyReference.cache
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic_Welear_Sponlem.Form1.resources
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic_Welear_Sponlem.Properties.Resources.resources
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.csproj.GenerateResource.cache
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.csproj.CoreCompileInputs.cache
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.exe
+C:\Users\TOP-D330\source\repos\Erlopic Welear Sponlem\obj\Debug\Erlopic Welear Sponlem.pdb
